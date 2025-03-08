@@ -1,3 +1,2 @@
-# Zulfiqar-Ali
-Content Writer
+# Content-Writing-Samples
 Author- Zulfiqar Ali
